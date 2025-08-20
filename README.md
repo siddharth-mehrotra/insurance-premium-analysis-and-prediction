@@ -52,4 +52,8 @@ The goal was twofold:
 ---
 
 ## 📊 Results & Dashboards
+![Premium based on Age and Bmi](premium_by_age_and_bmi.png)  
+![Premium based on Age and Smoking Habits](premium_by_age_and_smoking_habits.png)
+![Split of people based on BMI](bmi_split.png)
+![Premium based on Age, BMI, Region, and Smoking Habits](premium_by_age_smoking_bmi_region.png)
 
